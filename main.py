@@ -19,7 +19,7 @@ ball.set_position((janela.width - ball.width)/2, (janela.height - ball.height)/2
 direcao_y = 1 #Baixo
 direcao_x = 1 #Cima
 
-
+#Teste
 #Game Loop  
 while True:
     janela.set_background_color((0, 0, 0))
